@@ -10,19 +10,18 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems from your workstation.
+Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to read instructions for accessing the IBM systems from your workstation.
+
 
 Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS, the Designer containers as well as the 3270 emulator (Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as information on how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
 
-Exercises for generating OpenAPI 2 specification documents are available at at Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2).
+XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2).
 
-Exercises for consuming OpenAPI 3 specification documents are available  at Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance. Note that this will require the use of different ports and context roots when testing the APIs.
+XXXXX Exercises [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) 
 
-Exercises for the developing of z/OS Connect API Requester applications are available at Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters).
+XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters).
 
-Exercises related to the administration and security of z/OS Connect servers are available at Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity).
-
-The server XML configuration files referenced in the exercises can be downloaded from Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity) to view them locally.
+XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity).
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
@@ -41,4 +40,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) (mitchj@us.ibm.com) and I and/or others will help you sort it out.
+Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com) or [Leigh Compton](mailto: lcompton@us.ibm.com) for help.
