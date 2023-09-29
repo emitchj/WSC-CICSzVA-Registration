@@ -13,7 +13,7 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to read instructions for accessing the IBM systems from your workstation.
 
 
-Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS, the Designer containers as well as the 3270 emulator (Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as information on how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as direction on how to customize the 3270 Personal Communications keyboard for use with Mac keyboards.
 
 XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2).
 
