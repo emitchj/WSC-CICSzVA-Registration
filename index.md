@@ -15,13 +15,19 @@ Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to r
 
 Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as direction on how to customize the 3270 Personal Communications keyboard for use with Mac keyboards.
 
-XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2).
+## Lab Exercises
 
-XXXXX Exercises [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) 
+If you do not have two monitors, you may want to print the lab instructions prior to attending the workshop.
 
-XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters).
+- [Introduction to the Java Workshop](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L01-V61.01.zVA-JavaLabIntroduction.pdf).
+- [CICS OGSi Program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L34-V61.01.zVA-SimpleOSGiProgramWithCICSExplorer.pdf) 
+- [Using Servlets and JSPs in CICS](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L70-V61.01.zVA-UsingServletsAndJspsWithCICS.pdf).
+- [Servlet with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L72-V61.03.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram.pdf).
+- [JAX-RS and JSON](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L92-V61.01.zVA-CICS-JSONusingJAX-RSnon-OSGi.pdf).
+- [JAX-RS and JSON with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.01.zVA-CICS-JSON-JAX-RS-non-OSGi-Application.pdf).
+- [RESTful APIs with z/OS Connect](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.01.zVA-CICS-JSON-JAX-RS-non-OSGi-Application.pdf).
 
-XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity).
+
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
