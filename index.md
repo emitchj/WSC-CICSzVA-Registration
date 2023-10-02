@@ -26,7 +26,7 @@ If you do not have two monitors, you may want to print the lab instructions prio
 - [Servlet with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L72-V61.03.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram.pdf).
 - [JAX-RS and JSON](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L92-V61.01.zVA-CICS-JSONusingJAX-RSnon-OSGi.pdf).
 - [JAX-RS and JSON with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.01.zVA-CICS-JSON-JAX-RS-non-OSGi-Application.pdf).
-- [RESTful APIs with z/OS Connect](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.01.zVA-CICS-JSON-JAX-RS-non-OSGi-Application.pdf).
+- [RESTful APIs with z/OS Connect](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L97-V30.05.zVA-zosConnect-EE-BottomUp.pdf)).
 
 
 
