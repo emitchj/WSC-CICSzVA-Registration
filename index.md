@@ -14,11 +14,9 @@ Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to r
 
 Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as direction on how to customize the 3270 Personal Communications keyboard for use with Mac keyboards.
 
-## Lab Exercises and Presentations
+## Lab Exercise
 
-All of the Lab Exercise have been posted at [https://github.com/ibm-wsc/CICS-Conference-Labs](https://github.com/ibm-wsc/CICS-Conference-Labs).
-
-Here are links to the individual Lab Exercises.  Open the lab document that you are interested in running on your native windows machine.  Then follow the instructions below to access the virtual lab environment. 
+Below are links to the individual Lab Exercises.  Open the lab document that you are interested in running on your native windows machine.  Then follow the instructions below to access the virtual lab environment. 
 
 - [CICS Web Services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
 - [CICS A simple OGSi Program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
@@ -26,6 +24,8 @@ Here are links to the individual Lab Exercises.  Open the lab document that you 
 - [Using CICS JSON assistant](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
 - [Java Rest services using JAX-RS(non-OSGI)](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
 - [z/OS Connect - CICS Provider API, open API 2](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L97-V30.05-zOSConnect-Provider.pdf).
+
+
 
 
 
