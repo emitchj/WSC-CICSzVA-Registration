@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending this Barcelona TechXchange CICS workshop. 
 
 ## Accessing the hands-on lab
 
@@ -16,17 +16,17 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/Op
 
 ## Lab Exercises and Presentations
 
-Lab Exercises and Presentations have been posted at [https://github.com/ibm-wsc/CICS-Wildfire-Workshops/tree/main](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/tree/main).
+All of the Lab Exercise have been posted at [https://github.com/ibm-wsc/CICS-Conference-Labs](https://github.com/ibm-wsc/CICS-Conference-Labs).
 
-If you do not have two monitors, you may want to print the lab instructions prior to attending the workshop.
+Here are links to the individual Lab Exercises.  Open the lab document that you are interested in running on your native windows machine.  Then follow the instructions below to access the virtual lab environment. 
 
-- [Introduction to the Java Workshop](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L01-V61.01.zVA-JavaLabIntroduction.pdf).
-- [CICS OGSi Program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L34-V61.01.zVA-SimpleOSGiProgramWithCICSExplorer.pdf) 
-- [Using Servlets and JSPs in CICS](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L70-V61.01.zVA-UsingServletsAndJspsWithCICS.pdf).
-- [Servlet with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L72-V61.03.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram.pdf).
-- [JAX-RS and JSON](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L92-V61.01.zVA-CICS-JSONusingJAX-RSnon-OSGi.pdf).
-- [JAX-RS and JSON with LINK to CICS COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.01.zVA-CICS-JSON-JAX-RS-non-OSGi-Application.pdf).
-- [RESTful APIs with z/OS Connect](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L97-V30.05.zVA-zosConnect-EE-BottomUp.pdf)).
+- [CICS Web Services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
+- [CICS A simple OGSi Program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
+- [Servlet with Link to CICS COBOL](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
+- [Using CICS JSON assistant](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
+- [Java Rest services using JAX-RS(non-OSGI)](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
+- [z/OS Connect - CICS Provider API, open API 2](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L97-V30.05-zOSConnect-Provider.pdf).
+
 
 
 
