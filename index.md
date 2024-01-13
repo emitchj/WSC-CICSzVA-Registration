@@ -47,4 +47,4 @@ Below are links to the individual Lab Exercises.  Open the lab document that you
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com) or [Leigh Compton](mailto: lcompton@us.ibm.com) for help.
+Having trouble with labs? Send an email to [Eric Higgins](mailto: erichiggins@us.ibm.com) or [Leigh Compton](mailto: lcompton@us.ibm.com) for help.
