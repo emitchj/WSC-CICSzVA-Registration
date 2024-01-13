@@ -1,30 +1,36 @@
 IBM z/OS Connect EE Workshop,,,,,,,
 Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #
-c5b7ecefc5c874f7559e8f0502fe96c9,https://T-10030-169-59-184-46.ibmztrialmachines.com/,Administrator,C3Zabp8QygG7Lll90kd0,w-5240-k\Administrator,u59HWSz4psWyjixvKUEu,w-5240-k,5240
-8be5b8c5a81aa37765494c50f0eef089,https://T-10038-169-59-184-28.ibmztrialmachines.com/,Administrator,V3KD6qWEbi9GOxciiNev,w-5243-k\Administrator,RolDsmPbVZf3VUty64nX,w-5243-k,5243
-024e1dc64f7276eb6aa2b8fd1b372808,https://T-10044-169-59-184-101.ibmztrialmachines.com/,Administrator,4Dp1PhHqKdWCVG3WrFJ2,w-5247-k\Administrator,Skd2sdL0OwV6OGZmPwOC,w-5247-k,5247
-8be5b8c5a81aa37765494c50f0eef089,https://T-10080-169-59-184-119.ibmztrialmachines.com/,Administrator,iOKMI7hSH9HFfeClbvnD,w-5253-k\Administrator,A6cuNMFxNRe1pRqlm7N6,w-5253-k,5253
-1683942fe07365bab826c1e340c3ce35,https://T-10054-169-59-184-227.ibmztrialmachines.com/,Administrator,RJsd4gwP0ckxMX38mtj9,w-5233-k\Administrator,HIbDYfYEtxPogW7TuQNL,w-5233-k,5233
-9653164daae32e33122997e5e8999b08,https://T-9997-169-59-184-82.ibmztrialmachines.com/,Administrator,3MCAR8UZdM1vZ3m7CCvk,w-5237-k\Administrator,Ks25uMFq5TQpVpL0ug7i,w-5237-k,5237
-123c88eaaa34a6325e21041798cec24a,https://T-9995-169-59-184-103.ibmztrialmachines.com/,Administrator,eetlYy9sfoKxJxxwJPAS,w-5248-k\Administrator,OyyRC1cIAI1cMnsBIF9Z,w-5248-k,5248
-143b32a0fdac51134ba446e699f7624b,https://T-10036-169-59-184-178.ibmztrialmachines.com/,Administrator,VuueBBhoeOk7pP4NxdkJ,w-5234-k\Administrator,4lugANTjpJiobN11zwmP,w-5234-k,5234
-acce44233e5b792064cd72067b9676b3,https://T-10034-169-59-184-49.ibmztrialmachines.com/,Administrator,Ozy8SJXgh4XN4yGHcDlo,w-5235-k\Administrator,KNnlqZQm4HC6xVNVzpI9,w-5235-k,5235
-cf2994f7019c0263e115b0173f41b939,https://T-10064-169-59-184-144.ibmztrialmachines.com/,Administrator,sC7gdqofQ7lf66Hb6Poo,w-5238-k\Administrator,9NSMyB8CIm2P14nVIvzt,w-5238-k,5238
-39112d01266430dbf011f3ba7b23aa66,https://T-10012-169-59-184-74.ibmztrialmachines.com/,Administrator,cjqvOop6SrWkEG9TE6eX,w-5236-k\Administrator,RK3z3hmGwkb5LIKdDnSd,w-5236-k,5236
-ceadad631b08bda43168b1f52a685f7b,https://T-10002-169-59-184-194.ibmztrialmachines.com/,Administrator,L4a8sCYsio3Fptax5e4k,w-5256-k\Administrator,AS3KZHFsC3CmS4P3v8Og,w-5256-k,5256
-844571ae7d5c0a461478974f02ab76e9,https://T-10076-169-59-184-16.ibmztrialmachines.com/,Administrator,MI65XI0I4vezdE1X70jo,w-5241-k\Administrator,OkL329yHV2P0v8BXOSbc,w-5241-k,5241
-5583c56407ae57d8da10864df8c645a3,https://T-10009-169-59-184-89.ibmztrialmachines.com/,Administrator,FhFN30UoH56dfOWKthO2,w-5244-k\Administrator,3h80l7IogAWREQtaiNsR,w-5244-k,5244
-5e5889acf3eab179affae54c60e9df36,https://T-10014-169-59-184-220.ibmztrialmachines.com/,Administrator,4Hi2mnUCeH3lhTVTVLoK,w-5242-k\Administrator,SFKepNWQKri6uLPt4PV5,w-5242-k,5242
-86c65617d8c7f677bfd79e77d8a57a83,https://T-10077-169-59-184-239.ibmztrialmachines.com/,Administrator,0IdeNQJFDgsr9ycRMNzr,w-5246-k\Administrator,NBpPIyBOC8l0wx7JIAwg,w-5246-k,5246
-3d7a4535547087e0f5259eac31904d3d,https://T-10072-169-59-184-225.ibmztrialmachines.com/,Administrator,4acCRp8iOt0ZoG60pJmJ,w-5232-k\Administrator,9QSfV23Z7er4lrnsvrSn,w-5232-k,5232
-e3ff52df67fc6ca9a12622935f0aaa92,https://T-10058-169-59-184-4.ibmztrialmachines.com/,Administrator,gHHX03j9U9plEzXCc5kd,w-5257-k\Administrator,whoABoOoDAcYpUZ63zPs,w-5257-k,5257
-d827871a2e924db29504894d0f1289ae,https://T-10011-169-59-184-15.ibmztrialmachines.com/,Administrator,emBnleRXo3F3kP2zcAa0,w-5258-k\Administrator,FGPY3KBjy6RpKT6ZjaR3,w-5258-k,5258
-8414e36356e62a8d5908f5feb9f15c39,https://T-10065-169-59-184-221.ibmztrialmachines.com/,Administrator,DJvXdEuMDoOTwU1VRJXy,w-5255-k\Administrator,bEUugO02rlGKXUEbbEp3,w-5255-k,5255
-bb88faf3b7f2bba0e6476edcb2f07958,https://T-10055-169-59-184-135.ibmztrialmachines.com/,Administrator,Na7tMzcxJy1JI3cfwUmr,w-5239-k\Administrator,qdckQQRamvVI7bEStIoh,w-5239-k,5239
-a1f1862cb1e997811dc1818bceeccdd4,https://T-10062-169-59-184-21.ibmztrialmachines.com/,Administrator,3Yk0pmEYuIwOYsNCXR7E,w-5249-k\Administrator,MD5EwwBDrJ1E2gYh3lED,w-5249-k,5249
-02bf41aa95614c1200e348b7f0be303f,https://T-10043-169-59-184-114.ibmztrialmachines.com/,Administrator,AoPlRQdj6ZegLc9gzyOO,w-5251-k\Administrator,9S8DPSPUKOnCRNZo7HXQ,w-5251-k,5251
-,https://T-10000-169-59-184-48.ibmztrialmachines.com/,Administrator,Y9oOk8ebFtLIXlJvPpPS,w-5231-k\Administrator,qzhqcRByBR3nNMADTAv4,w-5231-k,5231
-,https://T-10025-169-59-184-233.ibmztrialmachines.com/,Administrator,l97RVaFIc9M0p4ZqG1cA,w-5254-k\Administrator,eUCv4Buf9R08KDc4vzdS,w-5254-k,5254
-,https://T-10018-169-59-184-140.ibmztrialmachines.com/,Administrator,fbdezPhe8CgZKbBPXgJe,w-5252-k\Administrator,S8QejLT2uE3oMis7e33e,w-5252-k,5252
-,https://T-10049-169-59-184-211.ibmztrialmachines.com/,Administrator,uIr6aJGywFuo7GRnzTfZ,w-5245-k\Administrator,21FnVE4zB7hBh581Wu1E,w-5245-k,5245
-,https://T-10016-169-59-184-81.ibmztrialmachines.com/,Administrator,PuBknbmi0ZuTKZvdIZx7,w-5250-k\Administrator,jBMY7oE4EL0SxD3CFAkp,w-5250-k,5250
+a1f1862cb1e997811dc1818bceeccdd4,https://T-13340-169-63-165-51.ibmztrialmachines.com/,Administrator,eAaHm3W3RWXJ, , , ,13340
+88cb717d7ada1d933b004232736085be,https://T-13340-169-63-165-51.ibmztrialmachines.com/,Administrator,eAaHm3W3RWXJ, , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , ,  
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , ,  
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+ , ,Administrator, , , , , 
+, ,Administrator, , , , , 
+, ,Administrator, , , , , 
+, ,Administrator, , , , , 
+, ,Administrator, , , , , 
+, ,Administrator, , , , , 
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"WCA4Z - Understand, Refactor & Transform phases Demo",,,,,,,
+Serial No,URL,User ID,Password,machine #,,,
+1,https://T-13340-169-63-165-51.ibmztrialmachines.com/,Administrator,eAaHm3W3RWXJ,13340,,,
