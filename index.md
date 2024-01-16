@@ -12,7 +12,7 @@ Thank you for attending this CICS Lab at Barcelona TechXchange.
 
 Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to read instructions for accessing the IBM systems from your workstation.
 
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as direction on how to customize the 3270 Personal Communications keyboard for use with Mac keyboards.
+Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf) for important information regarding User IDs, environments, etc that are used in the exercies. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys.
 
 ## 2) Lab Exercise
 
