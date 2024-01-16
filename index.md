@@ -26,13 +26,14 @@ Open the lab document associated with the excercise that you are interested in r
 - [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
 - [L72 - Java Servlet with Link to CICS COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
 - [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
-**z/OS Connect (CICS)**
+
+**z/OS Connect and CICS**
 - [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing%20Native%20Server%20RESTful%20APIs%20for%20accessing%20a%20CICS%20Program%20.pdf).
 - [zOS Connect EE calling an API from a COBOL application (OpenAPI 2 Requster)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/APIRequesters/Developing%20CICS%20API%20Requester%20Applications.pdf).
 
 ## Lab Environment Access 
 
-**Please enter your email address used for registration to retrieve your unique log in details.**
+**Please enter your student ID email address retrieve your unique log in details.**
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
@@ -47,6 +48,6 @@ Open the lab document associated with the excercise that you are interested in r
 <em>Note you will need a confirmed registration to access the lab.</em>
 </div>
 
-**Use the provider URL to open a new tab in your browser and then enter the provided ID and password to launch the virtual lab environment.**
+**Use the generated URL to open a new tab in your browser and then enter the generated ID and password to launch the virtual lab environment.**
 ## Help 
 Having trouble with labs? Notify your lab instructor:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
