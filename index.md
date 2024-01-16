@@ -16,7 +16,7 @@ Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/I
 
 ## 2) Lab Exercise
 
-Open the lab document associated with the excercise that you want to run. The lab document provides detailed steps for the exercise.  
+Open the lab document associated with the excercise that you want to run and save it to your desktop.  The lab document provides detailed steps for the exercise.  
 
 **Implementing Web Services in CICS**
 - [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
@@ -34,7 +34,7 @@ Open the lab document associated with the excercise that you want to run. The la
 
 ## 3) Lab Environment Access 
 
-**Please enter your student ID email address retrieve your unique log in details.**
+**Please enter your student ID email address (ex. student1@ibm.com) to retrieve your unique access details.**
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
