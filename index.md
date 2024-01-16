@@ -16,20 +16,21 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/Op
 
 ## Lab Exercise
 
-Below are links to the individual Lab Exercises.  Open the lab document that you are interested in running on your native windows machine.  Then follow the instructions below to access the virtual lab environment. 
+Open the lab document associated with the excercise that you are interested in running.  
 
-- [CICS Web Services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
-- [CICS A simple OGSi Program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
-- [Servlet with Link to CICS COBOL](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
-- [Using CICS JSON assistant](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
-- [Java Rest services using JAX-RS(non-OSGI)](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
-- [z/OS Connect - CICS Provider API, open API 2](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L97-V30.05-zOSConnect-Provider.pdf).
+**Implementing Web Services in CICS**
+- [L20: SOAP based CICS web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
+- [L90: CICS JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
 
+**Java Applications in CICS**
+- [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
+- [L72 - Java Servlet with Link to CICS COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
+- [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
+**z/OS Connect (CICS)**
+- [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing%20Native%20Server%20RESTful%20APIs%20for%20accessing%20a%20CICS%20Program%20.pdf).
+- [zOS Connect EE calling an API from a COBOL application (OpenAPI 2 Requster)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/APIRequesters/Developing%20CICS%20API%20Requester%20Applications.pdf).
 
-
-
-
-
+## Lab Environment Access 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
 
@@ -46,5 +47,6 @@ Below are links to the individual Lab Exercises.  Open the lab document that you
 <em>Note you will need a confirmed registration to access the lab.</em>
 </div>
 
+**Use the provider URL to open a new tab in your browser and then enter the provided ID and password to launch the virtual lab environment.**
 ## Help 
-Having trouble with labs? Send an email to [Eric Higgins](mailto: erichiggins@us.ibm.com) or [Leigh Compton](mailto: lcompton@us.ibm.com) for help.
+Having trouble with labs? Notify your lab instructor:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
