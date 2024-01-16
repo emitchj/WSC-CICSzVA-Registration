@@ -6,32 +6,33 @@
 
 ## Welcome
 
-Thank you for attending this Barcelona TechXchange CICS workshop. 
+Thank you for attending this CICS Lab at Barcelona TechXchange. 
 
-## Accessing the hands-on lab
+## 1) Accessing the hands-on lab
 
 Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to read instructions for accessing the IBM systems from your workstation.
 
 Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as direction on how to customize the 3270 Personal Communications keyboard for use with Mac keyboards.
 
-## Lab Exercise
+## 2) Lab Exercise
 
-Open the lab document associated with the excercise that you are interested in running.  
+Open the lab document associated with the excercise that you want to run. The lab document provides detailed steps for the exercise.  
 
 **Implementing Web Services in CICS**
-- [L20: SOAP based CICS web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
-- [L90: CICS JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
+- [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
+- [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
 
 **Java Applications in CICS**
 - [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
-- [L72 - Java Servlet with Link to CICS COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
+- [L72 - Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
 - [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
 
 **z/OS Connect and CICS**
 - [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing%20Native%20Server%20RESTful%20APIs%20for%20accessing%20a%20CICS%20Program%20.pdf).
 - [zOS Connect EE calling an API from a COBOL application (OpenAPI 2 Requster)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/APIRequesters/Developing%20CICS%20API%20Requester%20Applications.pdf).
 
-## Lab Environment Access 
+
+## 3) Lab Environment Access 
 
 **Please enter your student ID email address retrieve your unique log in details.**
 
@@ -49,5 +50,5 @@ Open the lab document associated with the excercise that you are interested in r
 </div>
 
 **Use the generated URL to open a new tab in your browser and then enter the generated ID and password to launch the virtual lab environment.**
-## Help 
+## 4) Help 
 Having trouble with labs? Notify your lab instructor:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
