@@ -50,5 +50,5 @@ Open the lab document associated with the excercise that you want to run. The la
 </div>
 
 **Use the generated URL to open a new tab in your browser and then enter the generated ID and password to launch the virtual lab environment.**
-## 4) Help 
-Having trouble with labs? Notify your lab instructor:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
+## Help 
+Having trouble with labs? Notify your lab instructors:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
