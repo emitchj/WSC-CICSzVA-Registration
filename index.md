@@ -20,7 +20,7 @@ Open the lab document associated with the excercise that you want to run and sav
 
 **Implementing Web Services in CICS**
 - [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
-- [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf).
+- [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.03-JSON-Web-Service.pdf).
 
 **Java Applications in CICS**
 - [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
