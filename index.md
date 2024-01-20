@@ -26,7 +26,7 @@ Open the lab document associated with the excercise that you want to run and sav
 - [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
 
 **z/OS Connect and CICS**
-- [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](Developing RESTful  APIs  for accessing a CICS Program%20.pdf).
+- [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](Developing RESTful APIs for accessing a CICS Program.pdf).
 - [zOS Connect EE calling an API from a COBOL application (OpenAPI 2 Requster)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/APIRequesters/Developing%20CICS%20API%20Requester%20Applications.pdf).
 
 
