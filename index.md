@@ -17,17 +17,16 @@ Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/I
 Open the lab document associated with the excercise that you want to run and save it to your desktop.  The lab document provides detailed steps for the exercise.  
 
 **Implementing Web Services in CICS**
-- [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
 - [L20: SOAP based web services](L20-V61.02-SOAP-WebServices-.pdf){:target="_blank"} 
-- [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.03-JSON-Web-Service.pdf).
+- [L90: JSON based web services](L90-V61.03-JSON-Web-Service.pdf){:target="_blank"}
 
 **Java Applications in CICS**
-- [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf) 
-- [L72 - Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.03-Java-Liberty-Program.pdf).
-- [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf).
+- [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](L34-V61.01-Java-OSGi-Program.pdf){:target="_blank"}
+- [L72 - Java Servlet with Link to COBOL program](L72-V61.03-Java-Liberty-Program.pdf){:target="_blank"}
+- [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
 
 **z/OS Connect and CICS**
-- [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing%20Native%20Server%20RESTful%20APIs%20for%20accessing%20a%20CICS%20Program%20.pdf).
+- [zOS Connect EE calling a CICS COBOL application (OpenAPI 3 Provider)](Developing RESTful  APIs  for accessing a CICS Program%20.pdf).
 - [zOS Connect EE calling an API from a COBOL application (OpenAPI 2 Requster)](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/APIRequesters/Developing%20CICS%20API%20Requester%20Applications.pdf).
 
 
