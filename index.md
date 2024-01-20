@@ -10,7 +10,7 @@ Thank you for attending this CICS Lab at Barcelona TechXchange.
 
 ## 1) Information about IBM's virtual z environment
 
-Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf) for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf){:target="_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2) Lab Exercise
 
