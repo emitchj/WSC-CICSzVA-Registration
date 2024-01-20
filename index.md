@@ -8,9 +8,7 @@
 
 Thank you for attending this CICS Lab at Barcelona TechXchange. 
 
-## 1) Accessing the hands-on lab
-
-Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} to read instructions for accessing the IBM systems from your workstation.
+## 1) Information about IBM's virtual z environment
 
 Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf) for important information regarding User IDs, environments, etc that are used in the exercies. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys.
 
@@ -51,4 +49,5 @@ Open the lab document associated with the excercise that you want to run and sav
 
 **Use the generated URL to open a new tab in your browser and then enter the generated ID and password to launch the virtual lab environment.**
 ## Help 
-Having trouble with labs? Notify your lab instructors:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com) or [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
+Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} for more details on how to access the IBM environment from your workstation.
+Or notify your lab instructors:   [Any Armstrong](mailto: andy.armstrong@uk.ibm.com)   [Anthony Papageorgiou](mailto: a.papageorgiou@uk.ibm.com).
