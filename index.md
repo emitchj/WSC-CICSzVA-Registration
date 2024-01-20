@@ -10,7 +10,7 @@ Thank you for attending this CICS Lab at Barcelona TechXchange.
 
 ## 1) Information about IBM's virtual z environment
 
-Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf) for important information regarding User IDs, environments, etc that are used in the exercies. This document also contains information on 3270 Emulator (IBM Personal Communications) keyboard mappings for the **Enter** and **Clear** keys.
+Click [here](https://github.com/emitchj/WSC-CICSzVA-Registration/blob/gh-pages/IBM_TechXchange2024_Barcelona_Lab_Guide_CICS_4140.pdf) for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2) Lab Exercise
 
@@ -18,6 +18,7 @@ Open the lab document associated with the excercise that you want to run and sav
 
 **Implementing Web Services in CICS**
 - [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf).
+- [L20: SOAP based web services](L20-V61.03-SOAP-WebServices-.pdf){:target="_blank"} 
 - [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.03-JSON-Web-Service.pdf).
 
 **Java Applications in CICS**
