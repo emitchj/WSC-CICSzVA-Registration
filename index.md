@@ -21,7 +21,7 @@ Hardcopy lab documents are available.  For softcopy, open the lab document assoc
 - [L72 - Java Servlet with Link to COBOL program](L72-V61.03-Java-Liberty-Program.pdf){:target="_blank"}
 - [L90: JSON based web services](L90-V61.03-JSON-Web-Service.pdf){:target="_blank"}
 - [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
-- [zOS Connect EE Developing RESTFull APIs for a CICS Channel program)](Developing Native Server RESTful APIs for accessing a CICS Program.pdf){:target="_blank"}
+- [Lxx: zOS Connect EE Developing RESTFull APIs for a CICS Channel program](Developing Native Server RESTful APIs for accessing a CICS Program.pdf){:target="_blank"}
 
 
 ## 3) Lab Environment Access 
