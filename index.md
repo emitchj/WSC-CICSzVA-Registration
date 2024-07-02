@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending this CICS Lab at SHARE Kansas City. 
+Thank you for attending this CICS Lab at August SHARE Kansas City. 
 
 ## 1) Information about IBM's virtual z environment
 
