@@ -18,10 +18,10 @@ Hardcopy lab documents are available.  For softcopy, open the lab document assoc
 
 - [L20: SOAP based web services](L20-V61.02-SOAP-WebServices-.pdf){:target="_blank"} 
 - [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](L34-V61.01-Java-OSGi-Program.pdf){:target="_blank"}
-- [L72 - Java Servlet with Link to COBOL program](L72-V61.03-Java-Liberty-Program.pdf){:target="_blank"}
-- [L90: JSON based web services](L90-V61.03-JSON-Web-Service.pdf){:target="_blank"}
+- [L72 - Java Servlet with Link to COBOL program](L72-V61.05.CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="_blank"}
+- [L90: JSON based web services](L90-V61.02-JSON-Web-Service.pdf){:target="_blank"}
 - [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
-- [Lxx: zOS Connect EE Developing RESTFull APIs for a CICS Channel program](Developing Native Server RESTful APIs for accessing a CICS Program.pdf){:target="_blank"}
+- [Lxx: zOS Connect EE Developing RESTFull APIs for a CICS Channel program](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Developing%20RESTful%20APIs%20for%20a%20CICS%20COMMAREA%20program.pdf){:target="_blank"}
 
 
 ## 3) Lab Environment Access 
