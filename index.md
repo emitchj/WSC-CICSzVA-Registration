@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending this CICS Lab at August SHARE Kansas City. 
+Thank you for attending the IBM CICS Lab at SHARE Kansas City. 
 
 ## 1) Information about IBM's virtual z environment
 
@@ -14,14 +14,15 @@ Click [here](SHARE_KC2024_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for detail
 
 ## 2) Lab Exercise
 
-Hardcopy lab documents are available.  For softcopy, open the lab document associated with the exercise that you want to run and save it to your desktop.  Lab documents provide detailed steps for each exercise.  
+Hardcopy lab documents are available for today's session.  The lab documents provide detailed steps for each exercise.
 
-- [L20: SOAP based web services](L20-V61.02-SOAP-WebServices-.pdf){:target="_blank"} 
-- [L34 - How to deploy a CICS application program coded in Java using the OSGI JVM](L34-V61.01-Java-OSGi-Program.pdf){:target="_blank"}
-- [L72 - Java Servlet with Link to COBOL program](L72-V61.05.CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="_blank"}
-- [L90: JSON based web services](L90-V61.02-JSON-Web-Service.pdf){:target="_blank"}
-- [L93 - RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
-- [Lxx: zOS Connect EE Developing RESTFull APIs for a CICS Channel program](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Developing%20RESTful%20APIs%20for%20a%20CICS%20Channel%20program.pdf){:target="_blank"}
+If you prefer a softcopy of the lab document, click the link below that corresponds with the exercise that you want to run, and then save the pdf file to your desktop.   
+- [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf){:target="_blank"} 
+- [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf){:target="_blank"}
+- [L72: Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.05.CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="_blank"}
+- [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L90-V61.02-JSON-Web-Service.pdf){:target="_blank"}
+- [L93: RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf){:target="_blank"}
+- [L97: zOS Connect EE Developing RESTFull APIs for a CICS Channel program](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Developing%20RESTful%20APIs%20for%20a%20CICS%20Channel%20program.pdf){:target="_blank"}
 
 
 ## 3) Lab Environment Access 
