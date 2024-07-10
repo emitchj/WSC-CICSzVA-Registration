@@ -46,3 +46,4 @@ If you prefer a softcopy of the lab document, click the link below that correspo
 ## Help 
 Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} for more details on how to access the IBM environment from your workstation.
 Or notify your lab instructors:   [Eric Higgins](mailto: erichiggins@us.ibm.com)   [Steve Fowlkes](mailto: fowlkes@us.ibm.com)   [Leigh Compton](mailto: lcompton@us.ibm.com).
+**eye catcher**
