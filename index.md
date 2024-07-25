@@ -17,7 +17,7 @@ Click [here](SHARE_KC2024_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for detail
 Hardcopy lab documents are available for today's session.  The lab documents provide detailed steps for each exercise.
 
 If you prefer a softcopy of the lab document, click the link below that corresponds with the exercise that you want to run, and then save the pdf file to your desktop.   
-- [L20: SOAP based web services](){:target="_blank"} 
+- [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L20-V61.02-SOAP-WebServices-.pdf){:target="_blank"} 
 - [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.01-Java-OSGi-Program.pdf){:target="_blank"}
 - [L72: Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L34-V61.01.zVA-SimpleOSGiProgramWithCICSExplorer.pdf){:target="_blank"}
 - [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Integration%20Lab%20Exercises/L90-V61.02-JSON-Web-Service.pdf){:target="_blank"}
