@@ -18,7 +18,7 @@ Hardcopy lab documents are available for today's session.  The lab documents pro
 
 If you prefer a softcopy of the lab document, click the link below that corresponds with the exercise that you want to run, and then save the pdf file to your desktop.   
 - [L20: SOAP based web services](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Integration%20Lab%20Exercises/L20-V61.03.zVA-WebServicesAssistant.pdf){:target="_blank"} 
-- [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L34-V61.02.zVA-SimpleOSGiProgramWithCICSExplorer.pdf){:target="_blank"}
+- [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L34-V61.03.zVA-SimpleOSGiProgramWithCICSExplorer.pdf){:target="_blank"}
 - [L72: Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L72-V61.05.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="_blank"}
 - [L90: JSON based web services](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Integration%20Lab%20Exercises/L90-V61.04.zVA-JSONAssistant_BottomUp.pdf){:target="_blank"}
 - [L93: RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%20Lab%20Exercises/L93-V61.04.zVA-CICS-JSON-JAXRS.pdf){:target="_blank"}
