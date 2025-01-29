@@ -6,11 +6,11 @@
 
 ## Welcome
 
-Thank you for attending the IBM CICS Lab at SHARE Kansas City. 
+Thank you for attending the IBM CICS Lab at SHARE Washington, D.C. 2025. 
 
 ## 1) Information about IBM's virtual z environment
 
-Click [here](SHARE_KC2024_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](SHARE_DC2025_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2) Lab Exercise
 
