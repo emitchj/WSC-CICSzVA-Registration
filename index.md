@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending the IBM CICS Lab at SHARE Washington, D.C. 2025. 
+Thank you for attending the IBM CICS Lab at Tech Xchange Orlando 2025. 
 
 ## 1) Information about IBM's virtual z environment
 
