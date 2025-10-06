@@ -14,12 +14,11 @@ Click [here](TechXchange_2025_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for de
 
 ## 2) Lab Exercise
 
-Hardcopy lab documents are available for today's session.  The lab documents provide detailed steps for each exercise.
 
-If you prefer a softcopy of the lab document, click the link below that corresponds with the exercise that you want to run, and then save the pdf file to your desktop.   
+Click the link below that corresponds with the exercise that you want to run, and move it to the portrait screen.
+   
 - [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://static.tools.ibm.com/ibm/techxchange25/sess/1746457314010001J5gv/LabGuide/L34-V61.TechXchange.zVA-SimpleOSGiProgramWithCICSExplorer.doc_1755544573176001VJGw.pdf){:target="_blank"}
 - [L72: Java Servlet with Link to COBOL program](https://static.tools.ibm.com/ibm/techxchange25/sess/1746457314010001J5gv/LabGuide/L72-V61.TechXchange.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram_1755544584916001BscE.pdf){:target="_blank"}
-- [L93: RESTful JSON with LINK to COBOL program using JAX-RS, JSON4j, JZOS](https://static.tools.ibm.com/ibm/techxchange25/sess/1746457314010001J5gv/LabGuide/L93-V61.TechXchange.zVA-CICS-JSON-JAXRS_1755544593199001u9Wj.pdf){:target="_blank"}
 
 ## 3) Lab Environment Access 
 
