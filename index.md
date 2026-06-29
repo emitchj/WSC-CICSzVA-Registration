@@ -1,26 +1,32 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
 <script src="./core-min.js"></script>
+
 <script src="./md5-min.js"></script>
+
 <script src="./wildfire-labs.js"></script>
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
 ## Welcome
 
-Thank you for attending the IBM CICS Lab at Tech Xchange Orlando 2025. 
+Thank you for attending the IBM CICS Jave Workshop.
 
-## 1) Information about IBM's virtual z environment
+## 1\) Information about IBM's virtual z environment
 
-Click [here](TechXchange_2025_CICS_Labs_Guide_CICS.pdf){:target="_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](BCBSSC%202026_CICS_Labs_Guide_CICS%20V2.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
-## 2) Lab Exercise
+## 2\) Lab Exercise
+
 
 
 Click the link below that corresponds with the exercise that you want to run, and move it to the portrait screen.
-   
-- [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://static.tools.ibm.com/ibm/techxchange25/sess/1746457314010001J5gv/LabGuide/L34-V61.TechXchange.zVA-SimpleOSGiProgramWithCICSExplorer.doc_1755544573176001VJGw.pdf){:target="_blank"}
-- [L72: Java Servlet with Link to COBOL program](https://static.tools.ibm.com/ibm/techxchange25/sess/1746457314010001J5gv/LabGuide/L72-V61.TechXchange.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram_1755544584916001BscE.pdf){:target="_blank"}
 
-## 3) Lab Environment Access 
+* [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%2520Lab%2520Exercises/L34-V61.03.zVA-SimpleOSGiProgramWithCICSExplorer.pdf){:target="\_blank"}
+* [L72: Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%2520Lab%2520Exercises/L72-V61.05.zVA-CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="\_blank"}
+* [L93:  CICS-Java REST services using JAX-RS](https://github.com/ibm-wsc/CICS-Wildfire-Workshops/blob/main/CICS-Java%2520Lab%2520Exercises/L93-V61.04.zVA-CICS-JSON-JAXRS.pdf){:target="\_blank"}
+
+## 3\) Lab Environment Access
 
 **Please enter your assigned student ID email address (ex. student1@ibm.com) to retrieve your unique access details.**
 
@@ -38,6 +44,9 @@ Click the link below that corresponds with the exercise that you want to run, an
 </div>
 
 **Use the generated URL to open a new tab in your browser and then enter the generated ID and password to launch the virtual lab environment.**
-## Help 
-Click [here](Lab Environment Connection Instructions.pdf){:target="_blank"} for more details on how to access the IBM environment from your workstation.
-Or notify your lab instructors:   [Eric Higgins](mailto: erichiggins@us.ibm.com)   [Steve Fowlkes](mailto: fowlkes@us.ibm.com)   [Leigh Compton](mailto: lcompton@us.ibm.com).
+
+## Help
+
+Click \[here](Lab Environment Connection Instructions.pdf){:target="\_blank"} for more details on how to access the IBM environment from your workstation.
+Or notify your lab instructors:  \[Adam Walton](mailto: Adam.Walton1@ibm.com) \[Chris Fan](mailto: Si.Bin.S.Fan@ibm.com)  \[Steve Fowlkes](mailto: fowlkes@us.ibm.com)   \[Leigh Compton](mailto: lcompton@us.ibm.com)  \[Eric Higgins](mailto: erichiggins@us.ibm.com).
+
