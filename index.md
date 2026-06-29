@@ -10,7 +10,7 @@
 
 ## Welcome
 
-Thank you for attending the IBM CICS Jave Workshop.
+Thank you for attending the IBM CICS Java Workshop.
 
 ## 1\) Information about IBM's virtual z environment
 
@@ -47,6 +47,6 @@ Click the link below that corresponds with the exercise that you want to run, an
 
 ## Help
 
-Click \[here](Lab Environment Connection Instructions.pdf){:target="\_blank"} for more details on how to access the IBM environment from your workstation.
-Or notify your lab instructors:  \[Adam Walton](mailto: Adam.Walton1@ibm.com) \[Chris Fan](mailto: Si.Bin.S.Fan@ibm.com)  \[Steve Fowlkes](mailto: fowlkes@us.ibm.com)   \[Leigh Compton](mailto: lcompton@us.ibm.com)  \[Eric Higgins](mailto: erichiggins@us.ibm.com).
+
+Contact your lab instructors:  Adam Walton: Adam.Walton1@ibm.com, Chris Fan: Si.Bin.S.Fan@ibm.com, Steve Fowlkes: fowlkes@us.ibm.com, Leigh Compton: lcompton@us.ibm.com, Eric Higgins: erichiggins@us.ibm.com.
 
