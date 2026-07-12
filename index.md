@@ -22,9 +22,8 @@ Click [here](BCBSSC%202026_CICS_Labs_Guide_CICS%20V2.pdf){:target="\_blank"} for
 
 Click the link below that corresponds with the exercise that you want to run, and move it to the portrait screen.
 
-* [L34: How to deploy a CICS application program coded in Java using the OSGI JVM](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L34-V61.03.zVA-SimpleOSGiProgramWithCICSExplorer.pdf){:target="\_blank"}
-* [L72: Java Servlet with Link to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L72-V61.05.CICS-Java-Servlet-LINKtoCOBOLProgram.pdf){:target="\_blank"}
-* [L93:  CICS-Java REST services using JAX-RS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V61.02-Java-Liberty-REST.pdf){:target="\_blank"}
+* [L75: CICS Java-Servlet LINK to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L75-V61.01.zVA-Link-to-Liberty.pdf){:target="\_blank"}
+* [L93: CICS-Java REST services using JAX-RS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V63.01.zVA-CICS-JSON-JAXRS.pdf){:target="\_blank"}
 
 ## 3\) Lab Environment Access
 
