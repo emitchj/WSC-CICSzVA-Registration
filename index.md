@@ -22,7 +22,6 @@ Click [here](BCBSSC%202026_CICS_Labs_Guide_CICS%20V2.pdf){:target="\_blank"} for
 
 Click the link below that corresponds with the exercise that you want to run, and move it to the portrait screen.
 
-* [L75: CICS Java-Servlet LINK to COBOL program](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L75-V61.01.zVA-Link-to-Liberty.pdf){:target="\_blank"}
 * [L93: CICS-Java REST services using JAX-RS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V63.01.zVA-CICS-JSON-JAXRS.pdf){:target="\_blank"}
 
 ## 3\) Lab Environment Access
@@ -48,5 +47,5 @@ Click the link below that corresponds with the exercise that you want to run, an
 
 
 
-Contact your lab instructors:  Adam Walton: Adam.Walton1@ibm.com, Chris Fan: Si.Bin.S.Fan@ibm.com, Steve Fowlkes: fowlkes@us.ibm.com, Leigh Compton: lcompton@us.ibm.com, Eric Higgins: erichiggins@us.ibm.com.
+Contact your lab instructors:  Adam Walton: Adam.Walton1@ibm.com, Chris Fan: Si.Bin.S.Fan@ibm.com,  Leigh Compton: lcompton@us.ibm.com, Eric Higgins: erichiggins@us.ibm.com.
 
