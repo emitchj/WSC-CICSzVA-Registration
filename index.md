@@ -14,7 +14,7 @@ Thank you for attending this CICS lab at SHARE.
 
 ## 1\) Information about IBM's virtual z environment
 
-Click [here](SHARE%202026_CICS_Lab_Guide.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](SHARE_PITT_CICS_Lab_Guide.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2\) Lab Exercise
 
