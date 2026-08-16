@@ -14,7 +14,7 @@ Thank you for attending this CICS lab at SHARE.
 
 ## 1\) Information about IBM's virtual z environment
 
-Click [here](SHARE%202026_CICS_Labs_Guide.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](SHARE%202026_CICS_Lab_Guide.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2\) Lab Exercise
 
@@ -23,7 +23,7 @@ Click [here](SHARE%202026_CICS_Labs_Guide.pdf){:target="\_blank"} for detailed  
 Click the link below that corresponds with this session.
 
 * [C01: Simplifying Z Configuration - Harness the Power of Config as Code](https://github.com/ibm-wsc/C01-zconfig Lab_Configuring a CICS Region.pdf){:target="\_blank"}
-* [S01: Beyond Transaction Security: Using Security Discovery](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/S01-V63.02.zVA-CICS-Security-Discovery.pdf){:target="\_blank"}
+* [S01: Beyond Transaction Security: Using Security Discovery](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/S01-V63.02.zVA-CICS Security Discovery.pdf){:target="\_blank"}
 
 ## 3\) Lab Environment Access
 
