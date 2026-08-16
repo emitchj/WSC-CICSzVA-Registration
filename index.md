@@ -10,19 +10,20 @@
 
 ## Welcome
 
-Thank you for attending the IBM CICS Java Workshop.
+Thank you for attending this CICS lab at SHARE.
 
 ## 1\) Information about IBM's virtual z environment
 
-Click [here](BCBSSC%202026_CICS_Labs_Guide_CICS%20V2.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
+Click [here](SHARE%202026_CICS_Labs_Guide.pdf){:target="\_blank"} for detailed  information regarding available labs, User IDs, and keyboard mapping for the 3270 emulator.
 
 ## 2\) Lab Exercise
 
 
 
-Click the link below that corresponds with the exercise that you want to run, and move it to the portrait screen.
+Click the link below that corresponds with this session.
 
-* [L93: CICS-Java REST services using JAX-RS](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/L93-V63.01.zVA-CICS-JSON-JAXRS.pdf){:target="\_blank"}
+* [C01: Simplifying Z Configuration - Harness the Power of Config as Code](https://github.com/ibm-wsc/C01-zconfig Lab_Configuring a CICS Region.pdf){:target="\_blank"}
+* [S01: Beyond Transaction Security: Using Security Discovery](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/S01-V63.02.zVA-CICS-Security-Discovery.pdf){:target="\_blank"}
 
 ## 3\) Lab Environment Access
 
@@ -47,5 +48,5 @@ Click the link below that corresponds with the exercise that you want to run, an
 
 
 
-Contact your lab instructors:  Adam Walton: Adam.Walton1@ibm.com, Chris Fan: Si.Bin.S.Fan@ibm.com,  Leigh Compton: lcompton@us.ibm.com, Eric Higgins: erichiggins@us.ibm.com.
+Contact your lab instructors:  Steve Fowlkes: fowlkes@us.ibm.com, Leigh Compton: lcompton@us.ibm.com, Eric Higgins: erichiggins@us.ibm.com, Ezriel Gross: ezriel@ibm.com
 
