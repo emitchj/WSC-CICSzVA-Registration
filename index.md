@@ -22,7 +22,7 @@ Click [here](SHARE_PITT_CICS_Lab_Guide.pdf){:target="\_blank"} for detailed  inf
 
 Click the link below that corresponds with this session.
 
-* [C01: Simplifying Z Configuration - Harness the Power of Config as Code](https://github.com/ibm-wsc/C01-zconfig Lab_Configuring a CICS Region.pdf){:target="\_blank"}
+* [C01: Simplifying Z Configuration - Harness the Power of Config as Code](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/C01-zconfig%20Lab_%20Configuring%20a%20CICS%20Region.pdf){:target="\_blank"}
 * [S01: Beyond Transaction Security: Using Security Discovery](https://github.com/ibm-wsc/CICS-Conference-Labs/blob/main/S01-V63.02.zVA-CICS Security Discovery.pdf){:target="\_blank"}
 
 ## 3\) Lab Environment Access
